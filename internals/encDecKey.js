@@ -1,0 +1,2 @@
+exports.encDecKey =
+  "twreuqcj12467481*&^&sdhgf7sf7sa532fd67w532f4ed67w32rfd6qa5qr81wyq7sa68etd6237drqfa56a4fwwefzuxi7ew98r934ygrfuydstc8w3ewvfc87y34whc8fyw7c3y4rlwoajsg.habvkdsmzjuy7r8y34rgfhbdcmjhs#@^%d67ewfdcv";
